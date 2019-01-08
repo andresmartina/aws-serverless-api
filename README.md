@@ -21,7 +21,6 @@
   - Create Company Services (POST /companies/{companyID}/services)
 
 ## Cloud Formation
-Cloud Formation is awesome, you could manage your infrastructure using just code.
 
 We will create three different Stacks
   - cognito-stack.yml 
