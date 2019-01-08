@@ -2,11 +2,11 @@
 
 ## App Model
 
-![](./diagram.png =250x)
+![](diagram.png =250x)
 
 ## Architecture
 
-![](./architecture.png =250x)
+![](architecture.png =250x)
 
 ## Use Cases
   - Authentication using Cognito and Facebook
@@ -22,8 +22,8 @@
 ##### Services Resource
   - Create Company Services (POST /companies/{companyID}/services)
 
-
 ## How data is stored in DynamoDB 
+
 
 ## Cloud Formation
 
