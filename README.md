@@ -1,10 +1,10 @@
 # Simple backend API using Cognito + AWS Lambdas (Golang) + DynamoDB + API Gateway + CloudFormation
 
 ## App Model
-<img src="diagram.png" alt="drawing" width="200"/>
+<img src="diagram.png" alt="drawing" width="400"/>
 
 ## Architecture
-<img src="architecture.png" alt="drawing" width="200"/>
+<img src="architecture.png" alt="drawing"/>
 
 ## Use Cases
   - Authentication using Cognito and Facebook
